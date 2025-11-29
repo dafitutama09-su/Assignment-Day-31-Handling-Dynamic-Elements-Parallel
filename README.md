@@ -32,6 +32,3 @@ Tujuan: Melakukan proses checkout produk di https://www.saucedemo.com hingga sel
 - Page Object Model (POM)
 - WebDriverManager
 - TestNG Parallel Execution
----
-
-## 📁 Struktur Project (Ringkas)
